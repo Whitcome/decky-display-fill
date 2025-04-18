@@ -1,6 +1,6 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
+  "name": "Display Fill",
+  "author": "David Whitcome",
   "flags": ["debug", "_root"],
   "api_version": 1,
   "publish": {
